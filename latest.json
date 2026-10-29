@@ -1,9 +1,9 @@
-﻿{
+{
     "name":  "Prism",
-    "version":  "0.16.2",
-    "chromium":  "158.0.8122.3",
-    "url":  "https://github.com/Promethion-Dev-Tech/prism-releases/releases/download/v0.16.2/PrismSetup.exe",
-    "sha256":  "cb10a8e1cb953f84ba4bf7d58a99906d24564e4798ff84e857ae85944f7da55b",
-    "notes":  "Prism 0.16.2: update checksums are now required; release asset is published before the feed.",
-    "published":  "2026-10-29T01:12:22.5497069Z"
+    "version":  "0.16.3",
+    "chromium":  "158.0.8122.4",
+    "url":  "https://github.com/Promethion-Dev-Tech/prism-releases/releases/download/v0.16.3/PrismSetup.exe",
+    "sha256":  "3ba8ecbf1e18dae2ae600dde45127fce5bf6216fa8c5160c83346ef37925646e",
+    "notes":  "Prism 0.16.3: Community mods in prism://mods (reviewed, hash-checked installs) and a \u0027Restart to update\u0027 alert when an update is ready.",
+    "published":  "2026-10-29T01:37:00.0480909Z"
 }
