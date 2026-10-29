@@ -10,4 +10,4 @@ Public installers for the Prism browser (PromethionTech). Source stays private.
 
 The installer also registers an updater. About every four hours, and at logon, it checks this repository's `latest.json` and installs newer versions.
 
-Current: **0.16.1**
+Current: **0.16.2**

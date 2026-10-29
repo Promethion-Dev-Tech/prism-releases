@@ -1,9 +1,9 @@
 ﻿{
     "name":  "Prism",
-    "version":  "0.16.1",
-    "chromium":  "158.0.8122.2",
-    "url":  "https://github.com/Promethion-Dev-Tech/prism-releases/releases/download/v0.16.1/PrismSetup.exe",
-    "sha256":  "2af253e444f483ea6a4300b885e582331756ebae96f81158e27265b664d4f767",
-    "notes":  "Prism 0.16.1: Chrome-style updates. Later builds download in the background; restart Prism to apply (Rail restart chip or Ctrl+K). Unsigned: SmartScreen More info -\u003e Run anyway.",
-    "published":  "2026-10-28T08:00:10.7864370Z"
+    "version":  "0.16.2",
+    "chromium":  "158.0.8122.3",
+    "url":  "https://github.com/Promethion-Dev-Tech/prism-releases/releases/download/v0.16.2/PrismSetup.exe",
+    "sha256":  "cb10a8e1cb953f84ba4bf7d58a99906d24564e4798ff84e857ae85944f7da55b",
+    "notes":  "Prism 0.16.2: update checksums are now required; release asset is published before the feed.",
+    "published":  "2026-10-29T01:12:22.5497069Z"
 }
