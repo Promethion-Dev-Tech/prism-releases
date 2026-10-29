@@ -1,9 +1,9 @@
 {
     "name":  "Prism",
-    "version":  "0.16.3",
-    "chromium":  "158.0.8122.4",
-    "url":  "https://github.com/Promethion-Dev-Tech/prism-releases/releases/download/v0.16.3/PrismSetup.exe",
-    "sha256":  "3ba8ecbf1e18dae2ae600dde45127fce5bf6216fa8c5160c83346ef37925646e",
-    "notes":  "Prism 0.16.3: Community mods in prism://mods (reviewed, hash-checked installs) and a \u0027Restart to update\u0027 alert when an update is ready.",
-    "published":  "2026-10-29T01:37:00.0480909Z"
+    "version":  "0.16.4",
+    "chromium":  "158.0.8122.5",
+    "url":  "https://github.com/Promethion-Dev-Tech/prism-releases/releases/download/v0.16.4/PrismSetup.exe",
+    "sha256":  "5ae8e9864037cb5f3c2d5fbee3ae17a1336d7a33a0b11bd9cbe7a3454d50c307",
+    "notes":  "Separate logins per Space (new Spaces start empty; copy logins from any Spaces). Import bookmarks and history from Chrome, Edge, Brave, Vivaldi, Opera, Firefox. Quiet update and default-browser cards instead of dialogs; update badge on the Rail. Fixes the endless restart-to-update loop. Web apps editor with real logos. Dial frame-rate cap now enforced. Scrollable command sheet without duplicates. New Prism background. Draggable window.",
+    "published":  "2026-10-29T07:13:06.0228971Z"
 }
