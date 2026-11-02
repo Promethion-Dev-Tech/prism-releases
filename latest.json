@@ -1,9 +1,9 @@
 {
     "name":  "Prism",
-    "version":  "0.17.0",
-    "chromium":  "158.0.8122.6",
-    "url":  "https://github.com/Promethion-Dev-Tech/prism-releases/releases/download/v0.17.0/PrismSetup.exe",
-    "sha256":  "7f92a314c68e69e46e114007413cf13b543fab9b20eb2a8cf4b99d25c0e6a06b",
-    "notes":  "Much faster Spaces and startup. New Spaces open instantly (a ready page is kept warm) and switching Spaces no longer flashes a placeholder; each Space\u0027s Home stays loaded and its widgets keep their content. Home draws faster on launch (clock and background no longer block the first frame), Shields filter lists load from a cache instead of stalling page loads, and Prism uses less memory and fewer processes. Library pages (History, Downloads, Passwords, Bookmarks, Extensions) and fuller import from other browsers. Drag the window from the top strip, the New Tab header or empty Shelf space. Optional Launch on startup. Beam completes \u0027yout\u0027 to youtube.com. Video fullscreen hides the Beam.",
-    "published":  "2026-11-01T20:44:39.7708713Z"
+    "version":  "0.17.1",
+    "chromium":  "158.0.8122.8",
+    "url":  "https://github.com/Promethion-Dev-Tech/prism-releases/releases/download/v0.17.1/PrismSetup.exe",
+    "sha256":  "ec679ee0cbe2e45467d9fbb819ef2d1d3ce54bb342e0db8f45a3482762b5ba18",
+    "notes":  "Faster: no blank first page at launch, Spaces open instantly soon after launch, new launch splash screen, no Google API keys warning.",
+    "published":  "2026-11-02T23:00:00.9749624Z"
 }
