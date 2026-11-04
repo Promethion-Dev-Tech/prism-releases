@@ -1,9 +1,9 @@
 {
     "name":  "Prism",
-    "version":  "0.17.1",
-    "chromium":  "158.0.8122.8",
-    "url":  "https://github.com/Promethion-Dev-Tech/prism-releases/releases/download/v0.17.1/PrismSetup.exe",
-    "sha256":  "ec679ee0cbe2e45467d9fbb819ef2d1d3ce54bb342e0db8f45a3482762b5ba18",
-    "notes":  "Faster: no blank first page at launch, Spaces open instantly soon after launch, new launch splash screen, no Google API keys warning.",
-    "published":  "2026-11-02T23:00:00.9749624Z"
+    "version":  "0.18.0",
+    "chromium":  "158.0.8122.9",
+    "url":  "https://github.com/Promethion-Dev-Tech/prism-releases/releases/download/v0.18.0/PrismSetup.exe",
+    "sha256":  "200f97790323a8f943606a08a9c48f3df47924f3430750a13d6dfacfaa436467",
+    "notes":  "Tab folders: create folders, pin them, pinned tabs collapse into a folder in the compact tab bar. Memory: idle background tabs sleep after 30 min and an automatic RAM limit (25% of RAM) keeps Prism lean. Video: H.264/HLS streaming sites now play. Spaces: copying logins to a new Space keeps Google sign-ins.",
+    "published":  "2026-11-04T01:01:03.8608802Z"
 }
