@@ -1,9 +1,9 @@
 {
     "name":  "Prism",
-    "version":  "0.18.0",
-    "chromium":  "158.0.8122.9",
-    "url":  "https://github.com/Promethion-Dev-Tech/prism-releases/releases/download/v0.18.0/PrismSetup.exe",
-    "sha256":  "200f97790323a8f943606a08a9c48f3df47924f3430750a13d6dfacfaa436467",
-    "notes":  "Tab folders: create folders, pin them, pinned tabs collapse into a folder in the compact tab bar. Memory: idle background tabs sleep after 30 min and an automatic RAM limit (25% of RAM) keeps Prism lean. Video: H.264/HLS streaming sites now play. Spaces: copying logins to a new Space keeps Google sign-ins.",
-    "published":  "2026-11-04T01:01:03.8608802Z"
+    "version":  "0.19.0",
+    "chromium":  "158.0.8122.13",
+    "url":  "https://github.com/Promethion-Dev-Tech/prism-releases/releases/download/v0.19.0/PrismSetup.exe",
+    "sha256":  "30ef10ddd86df2b72c030be8fb1d962a07058083b340d0689e67c51eb9ef6946",
+    "notes":  "Faster and lighter: optimized build (ThinLTO + PGO; heavy pages load ~15-35% faster), ~20% less idle memory (hidden Space pages no longer hold GPU memory), Shields adds Peter Lowe\u0027s ad/tracker host list.",
+    "published":  "2026-11-09T19:17:58.9561135Z"
 }
