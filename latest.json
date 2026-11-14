@@ -1,9 +1,9 @@
 {
     "name":  "Aphelia",
-    "version":  "0.20.0",
-    "chromium":  "158.0.8122.33",
-    "url":  "https://github.com/Promethion-Dev-Tech/aphelia-releases/releases/download/v0.20.0/ApheliaSetup.exe",
-    "sha256":  "52a0a1c4e8406823cbbfa75f940f5a0c781084bcd46b9b2b39f22b41e5e9f222",
-    "notes":  "Prism is now Aphelia, with a new icon. New Distant Star background: the real sun and moon for your place and time (moon phase, sunrise, sunset), in your Space colour. Home: drag widgets anywhere (hold to arrange), one Edit button, new Spaces can copy another Space\u0027s Home layout. Focus profiles block sites while the timer runs. To-do reminders with notifications. Weather suggests places as you type. Closing a tab no longer switches Space; clock follows your Space colour.",
-    "published":  "2026-11-14T01:01:22.2943529Z"
+    "version":  "0.20.1",
+    "chromium":  "158.0.8122.36",
+    "url":  "https://github.com/Promethion-Dev-Tech/aphelia-releases/releases/download/v0.20.1/ApheliaSetup.exe",
+    "sha256":  "128c10caad5d30f6048c421036e9e0e907d7845568753280f7f4717fb7876e83",
+    "notes":  "Your tabs are safe: Aphelia now reopens all your tabs, pins, folders and Spaces after a restart, an update or a crash, and keeps automatic backups of your last 40 sessions. Closing a tab no longer jumps to another Space: you stay in the Space, or see its Home when it was the last tab. Tabs kept from a Glance or a web app panel are saved right away. The taskbar and Start menu now show the new Aphelia icon.",
+    "published":  "2026-11-14T08:45:16.4422886Z"
 }
